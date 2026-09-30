@@ -158,7 +158,7 @@ More details on the [source code page](https://textingreel.net/chat-video-maker-
 ## Get it
 
 <p align="center">
-  <a href="https://wikanopi.gumroad.com/l/chat-video-maker"><b>Get TextingReel on Gumroad: $12.99</b></a><br>
+  <a href="https://wikanopi.gumroad.com/l/chat-video-maker"><b>Get TextingReel on Gumroad</b></a><br>
   <a href="https://textingreel.net">textingreel.net</a>
 </p>
 
