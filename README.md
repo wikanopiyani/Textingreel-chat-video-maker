@@ -6,7 +6,7 @@
 
 **A Windows chat video maker. Turn a typed conversation into a text message video for TikTok, Instagram Reels, YouTube Shorts and Facebook.**
 
-One-time $12.99 · No subscription · No watermark · Works offline · Full source code included
+No subscription · No watermark · Works offline · Full source code included
 
 [**Get TextingReel on Gumroad**](https://wikanopi.gumroad.com/l/chat-video-maker) &nbsp;|&nbsp; [Website](https://textingreel.net) &nbsp;|&nbsp; [How-to guide](https://textingreel.net/how-to-make-text-message-videos/) &nbsp;|&nbsp; [15 text story ideas](https://textingreel.net/text-story-ideas/)
 
